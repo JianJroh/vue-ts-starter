@@ -1,0 +1,5 @@
+dist/
+# auto generated
+auto-imports.d.ts
+components.d.ts
+pnpm-lock.yaml
